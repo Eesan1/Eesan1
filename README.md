@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Eesan1
+- 👀 I’m interested in Programming using mainly C# and Java
+- 🌱 I’m currently learning C#, Java and HTML
